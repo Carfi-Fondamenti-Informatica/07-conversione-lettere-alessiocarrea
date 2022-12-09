@@ -2,6 +2,6 @@
 #define PRIMALIBRERIA_PRIMALIBRERIA_H
 
 bool letteraono(int valore);
-char conversionelettere(vhar valore);
+char conversionelettere(char valore);
 
 #endif //PRIMALIBRERIA_PRIMALIBREIA_H
